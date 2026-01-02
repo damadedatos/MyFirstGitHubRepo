@@ -18,3 +18,4 @@ space.
 - Add a screenshot
 - Add an Issues checklist
 - Add a simple GitHub Action badge
+- Add a simple license file
